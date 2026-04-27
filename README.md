@@ -1,5 +1,5 @@
 ![HGY Ahşap Site Önizleme](ekrangoruntusu.png)
-🌿 HGY Ahşap – Tanıtım Web Sitesi
+#🌿 HGY Ahşap – Tanıtım Web Sitesi
 
 Bu proje, HGY Ahşap markasına ait ürünlerin tanıtımı için hazırlanmış modern ve sade bir web sitesi tasarımını içermektedir. Web sitesi, ahşap ürünlerin doğallığını ve estetik görünümünü ön plana çıkararak ziyaretçilere görsel açıdan etkileyici bir deneyim sunmayı amaçlar.
 
