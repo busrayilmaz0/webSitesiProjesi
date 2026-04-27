@@ -1,0 +1,91 @@
+.icerik1{
+    opacity: 1;
+}
+.icerik1:hover{
+    opacity: 0.8;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    font-size: 20px;
+    color: chocolate;
+}
+.isortami_secenekler img{
+    opacity: 1;
+}
+.isortami_secenekler img:hover{
+    opacity: 0.9;
+    width:260px;
+    height: auto;
+}
+.urunler_secenekler img{
+    opacity: 1;
+}
+.urunler_secenekler img:hover{
+    opacity: 0.9;
+    width:320px;
+    height: auto;
+}
+.referanslar_secenekler img{
+    opacity: 1;
+}
+.referanslar_secenekler img:hover{
+    opacity: 0.9;
+}
+.iletisim_secenekler img{
+    opacity: 1;
+}
+.iletisim_secenekler img:hover{
+    opacity: 0.9;
+    width:65px;
+    height: auto;
+}
+.makine_secenekler img{
+    opacity: 1;
+}
+.makine_secenekler img:hover{
+    opacity: 0.9;
+    width:320px;
+    height: auto;
+}
+.program_secenekler img{
+    opacity: 1;
+}
+.program_secenekler img:hover{
+    opacity: 0.9;
+    width:305px;
+    height: auto;
+}
+.oyuncak_secenekler img{
+    opacity: 1;
+}
+.oyuncak_secenekler img:hover{
+    opacity: 0.9;
+    width:305px;
+    height: auto;
+}
+.susesya_secenekler img{
+    opacity: 1;
+}
+.susesya_secenekler img:hover{
+    opacity: 0.9;
+    width:305px;
+    height: auto;
+}
+.mutfaksesya_secenekler img{
+    opacity: 1;
+}
+.mutfakesya_secenekler img:hover{
+    opacity: 0.9;
+    width:305px;
+    height: auto;
+}
+.magnet_secenekler img{
+    opacity: 1;
+}
+.magnet_secenekler img:hover{
+    opacity: 0.9;
+    width:305px;
+    height: auto;
+}
