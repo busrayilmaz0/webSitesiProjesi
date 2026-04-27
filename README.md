@@ -1,22 +1,34 @@
+![HGY Ahşap Site Önizleme](ekrangoruntusu.png)
+🌿 HGY Ahşap – Tanıtım Web Sitesi
 
-HGY Ahşap - Web Tanıtım Projesi
-Bu proje, HGY Ahşap mağazasının ürün yelpazesini (ahşap oyuncaklar, mutfak eşyaları ve dekoratif süsler) tanıtmak amacıyla geliştirilmiş bir web sitesidir.
+Bu proje, HGY Ahşap markasına ait ürünlerin tanıtımı için hazırlanmış modern ve sade bir web sitesi tasarımını içermektedir. Web sitesi, ahşap ürünlerin doğallığını ve estetik görünümünü ön plana çıkararak ziyaretçilere görsel açıdan etkileyici bir deneyim sunmayı amaçlar.
 
-📦 İçerik ve Ürün Kategorileri
-Sitede aşağıdaki ana kategorilerde ürün görselleri ve bilgileri yer almaktadır:
+📌 Proje Hakkında
 
-Ahşap Oyuncaklar: Çocuklar için doğal ve sağlıklı oyun araçları.
+HGY Ahşap tanıtım web sitesi; markanın üretmiş olduğu ahşap ürünleri sergilemek ve marka kimliğini dijital ortamda yansıtmak amacıyla geliştirilmiştir.
 
-Mutfak Eşyaları: Ahşap sunum tabakları, kaşıklar ve dekoratif mutfak gereçleri.
+Bu proje bir e-ticaret sitesi değildir — ürün satışı yerine tamamen bilgilendirme ve görsel sunum odaklıdır.
 
-Ahşap Süsler: Ev dekorasyonu için el emeği ahşap objeler.
+Sitede yer alan ürün kategorileri:
 
-🛠️ Kullanılan Teknolojiler
-Projenin geliştirilmesinde aşağıdaki teknolojiler kullanılmıştır:
+🧸 Ahşap oyuncaklar
+🏡 Ahşap süs eşyaları
+🍴 Ahşap mutfak ürünleri
+🚀 Kullanılan Teknolojiler
 
-HTML5: Sayfa yapısı ve içerik hiyerarşisi oluşturuldu.
+Proje, temel web teknolojileri kullanılarak geliştirilmiştir:
 
-CSS3: Temel sayfa düzeni, renkler ve yazı tipleri için kullanıldı.
+HTML5 → 53 dosya
+CSS3 → 1 dosya
 
-🚀 Proje Hakkında
-Bu web sitesi, ahşap ürünlerin doğallığını yansıtacak şekilde sade ve kullanıcı dostu bir arayüzle tasarlanmıştır. 
+Herhangi bir framework veya kütüphane kullanılmadan sade ve anlaşılır bir yapı oluşturulmuştur.
+
+🎨 Tasarım Özellikleri
+Minimalist ve temiz arayüz
+Doğal ve sıcak renk paleti
+Ürün odaklı görsel sunum
+
+🎯 Projenin Amacı
+HGY Ahşap markasının dijital tanıtımını yapmak
+Ürünleri estetik bir şekilde sergilemek
+Temel HTML ve CSS bilgileri ile web arayüzü geliştirmek
